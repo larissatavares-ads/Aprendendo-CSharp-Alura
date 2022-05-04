@@ -1,0 +1,14 @@
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte2\ExercicioGame\ContaCorrente\bin\Debug\netcoreapp3.1\ContaCorrente.exe
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte2\ExercicioGame\ContaCorrente\bin\Debug\netcoreapp3.1\ContaCorrente.deps.json
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte2\ExercicioGame\ContaCorrente\bin\Debug\netcoreapp3.1\ContaCorrente.runtimeconfig.json
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte2\ExercicioGame\ContaCorrente\bin\Debug\netcoreapp3.1\ContaCorrente.runtimeconfig.dev.json
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte2\ExercicioGame\ContaCorrente\bin\Debug\netcoreapp3.1\ContaCorrente.dll
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte2\ExercicioGame\ContaCorrente\bin\Debug\netcoreapp3.1\ContaCorrente.pdb
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte2\ExercicioGame\ContaCorrente\obj\Debug\netcoreapp3.1\ContaCorrente.csproj.AssemblyReference.cache
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte2\ExercicioGame\ContaCorrente\obj\Debug\netcoreapp3.1\ContaCorrente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte2\ExercicioGame\ContaCorrente\obj\Debug\netcoreapp3.1\ContaCorrente.AssemblyInfoInputs.cache
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte2\ExercicioGame\ContaCorrente\obj\Debug\netcoreapp3.1\ContaCorrente.AssemblyInfo.cs
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte2\ExercicioGame\ContaCorrente\obj\Debug\netcoreapp3.1\ContaCorrente.csproj.CoreCompileInputs.cache
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte2\ExercicioGame\ContaCorrente\obj\Debug\netcoreapp3.1\ContaCorrente.dll
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte2\ExercicioGame\ContaCorrente\obj\Debug\netcoreapp3.1\ContaCorrente.pdb
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte2\ExercicioGame\ContaCorrente\obj\Debug\netcoreapp3.1\ContaCorrente.genruntimeconfig.cache

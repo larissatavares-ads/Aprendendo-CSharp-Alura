@@ -1,0 +1,14 @@
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte2\ExercicioGame\ExercicioGame\obj\Debug\netcoreapp3.1\ExercicioGame.csproj.AssemblyReference.cache
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte2\ExercicioGame\ExercicioGame\obj\Debug\netcoreapp3.1\ExercicioGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte2\ExercicioGame\ExercicioGame\obj\Debug\netcoreapp3.1\ExercicioGame.AssemblyInfoInputs.cache
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte2\ExercicioGame\ExercicioGame\obj\Debug\netcoreapp3.1\ExercicioGame.AssemblyInfo.cs
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte2\ExercicioGame\ExercicioGame\obj\Debug\netcoreapp3.1\ExercicioGame.csproj.CoreCompileInputs.cache
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte2\ExercicioGame\ExercicioGame\bin\Debug\netcoreapp3.1\ExercicioGame.exe
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte2\ExercicioGame\ExercicioGame\bin\Debug\netcoreapp3.1\ExercicioGame.deps.json
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte2\ExercicioGame\ExercicioGame\bin\Debug\netcoreapp3.1\ExercicioGame.runtimeconfig.json
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte2\ExercicioGame\ExercicioGame\bin\Debug\netcoreapp3.1\ExercicioGame.runtimeconfig.dev.json
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte2\ExercicioGame\ExercicioGame\bin\Debug\netcoreapp3.1\ExercicioGame.dll
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte2\ExercicioGame\ExercicioGame\bin\Debug\netcoreapp3.1\ExercicioGame.pdb
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte2\ExercicioGame\ExercicioGame\obj\Debug\netcoreapp3.1\ExercicioGame.dll
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte2\ExercicioGame\ExercicioGame\obj\Debug\netcoreapp3.1\ExercicioGame.pdb
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte2\ExercicioGame\ExercicioGame\obj\Debug\netcoreapp3.1\ExercicioGame.genruntimeconfig.cache

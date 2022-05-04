@@ -1,0 +1,14 @@
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte2\ExercicioGame\ContaCorrente2\bin\Debug\netcoreapp3.1\ContaCorrente2.exe
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte2\ExercicioGame\ContaCorrente2\bin\Debug\netcoreapp3.1\ContaCorrente2.deps.json
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte2\ExercicioGame\ContaCorrente2\bin\Debug\netcoreapp3.1\ContaCorrente2.runtimeconfig.json
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte2\ExercicioGame\ContaCorrente2\bin\Debug\netcoreapp3.1\ContaCorrente2.runtimeconfig.dev.json
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte2\ExercicioGame\ContaCorrente2\bin\Debug\netcoreapp3.1\ContaCorrente2.dll
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte2\ExercicioGame\ContaCorrente2\bin\Debug\netcoreapp3.1\ContaCorrente2.pdb
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte2\ExercicioGame\ContaCorrente2\obj\Debug\netcoreapp3.1\ContaCorrente2.csproj.AssemblyReference.cache
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte2\ExercicioGame\ContaCorrente2\obj\Debug\netcoreapp3.1\ContaCorrente2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte2\ExercicioGame\ContaCorrente2\obj\Debug\netcoreapp3.1\ContaCorrente2.AssemblyInfoInputs.cache
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte2\ExercicioGame\ContaCorrente2\obj\Debug\netcoreapp3.1\ContaCorrente2.AssemblyInfo.cs
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte2\ExercicioGame\ContaCorrente2\obj\Debug\netcoreapp3.1\ContaCorrente2.csproj.CoreCompileInputs.cache
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte2\ExercicioGame\ContaCorrente2\obj\Debug\netcoreapp3.1\ContaCorrente2.dll
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte2\ExercicioGame\ContaCorrente2\obj\Debug\netcoreapp3.1\ContaCorrente2.pdb
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte2\ExercicioGame\ContaCorrente2\obj\Debug\netcoreapp3.1\ContaCorrente2.genruntimeconfig.cache
