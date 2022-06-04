@@ -6,13 +6,13 @@ namespace ContaCorrente2
     {
         static void Main(string[] args)
         {
-            ContaCorrente contaDaBeatriz = new ContaCorrente(4445, 3059824);
+            ContaCorrente contaDaBeatriz = new ContaCorrente(4445, 3059824); //Instanciando um OBJETO
             ContaCorrente contaDaLarissa = new ContaCorrente(4445, 3087658);
             Console.WriteLine("Total de contas correntes criadas: " + ContaCorrente.TotalDeContasCriadas);
 
-            Cliente cliente = new Cliente();
+            Cliente cliente = new Cliente(); //Instanciando um OBJETO
 
-            cliente.Nome = "Beatriz";
+            cliente.Nome = "Beatriz"; //Referência para um ATRIBUTO
             cliente.CPF = "055.444.232-60";
             cliente.Profissao = "Desenvolvedora C#";
             cliente.RendaFamiliar = "6000";
@@ -44,7 +44,7 @@ namespace ContaCorrente2
 
             //----------------------------------------------------------------------------//
 
-            contaDaBeatriz.Depositar(3000);
+            contaDaBeatriz.Depositar(3000); //Referência para um MÉTODO
             Console.WriteLine("Saldo atual Beatriz após depósito: " + contaDaBeatriz.Saldo);
             contaDaLarissa.Depositar(10000);
             Console.WriteLine("Saldo atual Larissa após depósito: " + contaDaLarissa.Saldo);

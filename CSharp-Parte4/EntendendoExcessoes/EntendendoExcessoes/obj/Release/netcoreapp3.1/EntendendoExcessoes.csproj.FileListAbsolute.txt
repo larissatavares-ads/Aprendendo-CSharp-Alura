@@ -1,0 +1,14 @@
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte4\EntendendoExcessoes\EntendendoExcessoes\bin\Release\netcoreapp3.1\EntendendoExcessoes.exe
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte4\EntendendoExcessoes\EntendendoExcessoes\bin\Release\netcoreapp3.1\EntendendoExcessoes.deps.json
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte4\EntendendoExcessoes\EntendendoExcessoes\bin\Release\netcoreapp3.1\EntendendoExcessoes.runtimeconfig.json
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte4\EntendendoExcessoes\EntendendoExcessoes\bin\Release\netcoreapp3.1\EntendendoExcessoes.runtimeconfig.dev.json
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte4\EntendendoExcessoes\EntendendoExcessoes\bin\Release\netcoreapp3.1\EntendendoExcessoes.dll
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte4\EntendendoExcessoes\EntendendoExcessoes\bin\Release\netcoreapp3.1\EntendendoExcessoes.pdb
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte4\EntendendoExcessoes\EntendendoExcessoes\obj\Release\netcoreapp3.1\EntendendoExcessoes.csproj.AssemblyReference.cache
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte4\EntendendoExcessoes\EntendendoExcessoes\obj\Release\netcoreapp3.1\EntendendoExcessoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte4\EntendendoExcessoes\EntendendoExcessoes\obj\Release\netcoreapp3.1\EntendendoExcessoes.AssemblyInfoInputs.cache
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte4\EntendendoExcessoes\EntendendoExcessoes\obj\Release\netcoreapp3.1\EntendendoExcessoes.AssemblyInfo.cs
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte4\EntendendoExcessoes\EntendendoExcessoes\obj\Release\netcoreapp3.1\EntendendoExcessoes.csproj.CoreCompileInputs.cache
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte4\EntendendoExcessoes\EntendendoExcessoes\obj\Release\netcoreapp3.1\EntendendoExcessoes.dll
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte4\EntendendoExcessoes\EntendendoExcessoes\obj\Release\netcoreapp3.1\EntendendoExcessoes.pdb
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte4\EntendendoExcessoes\EntendendoExcessoes\obj\Release\netcoreapp3.1\EntendendoExcessoes.genruntimeconfig.cache

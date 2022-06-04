@@ -1,0 +1,14 @@
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte4\Exercicios\Exercicios\bin\Debug\netcoreapp3.1\Exercicios.exe
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte4\Exercicios\Exercicios\bin\Debug\netcoreapp3.1\Exercicios.deps.json
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte4\Exercicios\Exercicios\bin\Debug\netcoreapp3.1\Exercicios.runtimeconfig.json
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte4\Exercicios\Exercicios\bin\Debug\netcoreapp3.1\Exercicios.runtimeconfig.dev.json
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte4\Exercicios\Exercicios\bin\Debug\netcoreapp3.1\Exercicios.dll
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte4\Exercicios\Exercicios\bin\Debug\netcoreapp3.1\Exercicios.pdb
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte4\Exercicios\Exercicios\obj\Debug\netcoreapp3.1\Exercicios.csproj.AssemblyReference.cache
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte4\Exercicios\Exercicios\obj\Debug\netcoreapp3.1\Exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte4\Exercicios\Exercicios\obj\Debug\netcoreapp3.1\Exercicios.AssemblyInfoInputs.cache
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte4\Exercicios\Exercicios\obj\Debug\netcoreapp3.1\Exercicios.AssemblyInfo.cs
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte4\Exercicios\Exercicios\obj\Debug\netcoreapp3.1\Exercicios.csproj.CoreCompileInputs.cache
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte4\Exercicios\Exercicios\obj\Debug\netcoreapp3.1\Exercicios.dll
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte4\Exercicios\Exercicios\obj\Debug\netcoreapp3.1\Exercicios.pdb
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte4\Exercicios\Exercicios\obj\Debug\netcoreapp3.1\Exercicios.genruntimeconfig.cache

@@ -3,7 +3,7 @@
 public class ContaCorrente
 {
     public Cliente Titular { get; set; }
-    public static int TotalDeContasCriadas { get; private set; }
+    public static int TotalDeContasCriadas { get; private set; } //ATRIBUTO
     
     private int _agencia;
     public int Agencia {
@@ -52,7 +52,7 @@ public class ContaCorrente
         }
     }
 
-    public void Depositar(double valor)
+    public void Depositar(double valor) //MÉTODO
     {
         this._saldo += valor;
     }

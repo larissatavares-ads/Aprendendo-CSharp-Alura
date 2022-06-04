@@ -6,7 +6,7 @@ namespace ContaCorrente2
 {
     public class Cliente
     {
-        public string Nome { get; set; }
+        public string Nome { get; set; } //ATRIBUTO
         public string CPF { get; set; }
         public string Profissao { get; set; }
         public string RendaFamiliar { get; set; }

@@ -1,0 +1,14 @@
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte3\ExercicioParte3\ConsoleApp1\bin\Debug\netcoreapp3.1\BancoExercicio.exe
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte3\ExercicioParte3\ConsoleApp1\bin\Debug\netcoreapp3.1\BancoExercicio.deps.json
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte3\ExercicioParte3\ConsoleApp1\bin\Debug\netcoreapp3.1\BancoExercicio.runtimeconfig.json
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte3\ExercicioParte3\ConsoleApp1\bin\Debug\netcoreapp3.1\BancoExercicio.runtimeconfig.dev.json
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte3\ExercicioParte3\ConsoleApp1\bin\Debug\netcoreapp3.1\BancoExercicio.dll
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte3\ExercicioParte3\ConsoleApp1\bin\Debug\netcoreapp3.1\BancoExercicio.pdb
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte3\ExercicioParte3\ConsoleApp1\obj\Debug\netcoreapp3.1\BancoExercicio.csproj.AssemblyReference.cache
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte3\ExercicioParte3\ConsoleApp1\obj\Debug\netcoreapp3.1\BancoExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte3\ExercicioParte3\ConsoleApp1\obj\Debug\netcoreapp3.1\BancoExercicio.AssemblyInfoInputs.cache
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte3\ExercicioParte3\ConsoleApp1\obj\Debug\netcoreapp3.1\BancoExercicio.AssemblyInfo.cs
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte3\ExercicioParte3\ConsoleApp1\obj\Debug\netcoreapp3.1\BancoExercicio.csproj.CoreCompileInputs.cache
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte3\ExercicioParte3\ConsoleApp1\obj\Debug\netcoreapp3.1\BancoExercicio.dll
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte3\ExercicioParte3\ConsoleApp1\obj\Debug\netcoreapp3.1\BancoExercicio.pdb
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte3\ExercicioParte3\ConsoleApp1\obj\Debug\netcoreapp3.1\BancoExercicio.genruntimeconfig.cache
