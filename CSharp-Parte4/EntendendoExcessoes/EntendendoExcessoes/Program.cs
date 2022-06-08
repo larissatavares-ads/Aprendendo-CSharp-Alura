@@ -4,31 +4,33 @@ namespace EntendendoExcessoes
 {
     internal class Program
     {
-        
-
         static void Main(string[] args)
         {
             try
             {
-                Metodo();
-            }
-            catch (DivideByZeroException e)
-            {
-                Console.WriteLine("Não é possível divisão por zero.");
-            }
-            catch (Exception e)
+                ContaCorrente c1 = new ContaCorrente();
+                ContaCorrente c2 = new ContaCorrente();
+                
+                c1.Sacar(1000);
+
+            } catch(OperacaoFinanceiraException e)
             {
                 Console.WriteLine(e.Message);
                 Console.WriteLine(e.StackTrace);
-                Console.WriteLine("Aconteceu um erro");
+
+                Console.WriteLine("Informações da INNER EXCEPTION (exceção interna");
+
+                Console.WriteLine(e.InnerException.Message);
+                Console.WriteLine(e.InnerException.StackTrace);
             }
-            
+
+            Console.WriteLine("Execução finalizada. Tecle enter para sair.");
             Console.ReadLine();
         }
-        
+
         private static void Metodo()
         {
-            TestaDivisao(0);
+            TestaDivisao(2);
         }
         private static void TestaDivisao(int divisor)
         {

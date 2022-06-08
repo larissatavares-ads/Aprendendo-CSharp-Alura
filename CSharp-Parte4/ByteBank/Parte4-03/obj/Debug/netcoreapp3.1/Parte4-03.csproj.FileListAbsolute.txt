@@ -1,0 +1,14 @@
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte4\ByteBank\Parte4-03\bin\Debug\netcoreapp3.1\Parte4-03.exe
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte4\ByteBank\Parte4-03\bin\Debug\netcoreapp3.1\Parte4-03.deps.json
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte4\ByteBank\Parte4-03\bin\Debug\netcoreapp3.1\Parte4-03.runtimeconfig.json
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte4\ByteBank\Parte4-03\bin\Debug\netcoreapp3.1\Parte4-03.runtimeconfig.dev.json
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte4\ByteBank\Parte4-03\bin\Debug\netcoreapp3.1\Parte4-03.dll
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte4\ByteBank\Parte4-03\bin\Debug\netcoreapp3.1\Parte4-03.pdb
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte4\ByteBank\Parte4-03\obj\Debug\netcoreapp3.1\Parte4-03.csproj.AssemblyReference.cache
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte4\ByteBank\Parte4-03\obj\Debug\netcoreapp3.1\Parte4-03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte4\ByteBank\Parte4-03\obj\Debug\netcoreapp3.1\Parte4-03.AssemblyInfoInputs.cache
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte4\ByteBank\Parte4-03\obj\Debug\netcoreapp3.1\Parte4-03.AssemblyInfo.cs
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte4\ByteBank\Parte4-03\obj\Debug\netcoreapp3.1\Parte4-03.csproj.CoreCompileInputs.cache
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte4\ByteBank\Parte4-03\obj\Debug\netcoreapp3.1\Parte4-03.dll
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte4\ByteBank\Parte4-03\obj\Debug\netcoreapp3.1\Parte4-03.pdb
+C:\Users\lari_\Documents\Larissa\AprendendoCSharp\CSharp-Parte4\ByteBank\Parte4-03\obj\Debug\netcoreapp3.1\Parte4-03.genruntimeconfig.cache
