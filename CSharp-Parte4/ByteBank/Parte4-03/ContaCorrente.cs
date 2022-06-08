@@ -8,11 +8,9 @@ namespace Parte4_03
     {
         public static double TaxaOperacao { get; private set; }
         public static int TotalDeContasCriadas { get; private set; }
-        public ClienteTitular { 
-    
+        public static string ClienteTitular
+        {
 
-
-
-
+        }
     }
 }

@@ -8,26 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\lari_\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\lari_\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lari_\\Documents\\Larissa\\AprendendoCSharp\\CSharp-Parte4\\ByteBank\\ByteBank\\ByteBank.csproj",
+      "projectUniqueName": "G:\\GitHub\\Aprendendo-CSharp-Alura\\CSharp-Parte4\\ByteBank\\ByteBank\\ByteBank.csproj",
       "projectName": "ByteBank",
-      "projectPath": "C:\\Users\\lari_\\Documents\\Larissa\\AprendendoCSharp\\CSharp-Parte4\\ByteBank\\ByteBank\\ByteBank.csproj",
+      "projectPath": "G:\\GitHub\\Aprendendo-CSharp-Alura\\CSharp-Parte4\\ByteBank\\ByteBank\\ByteBank.csproj",
       "packagesPath": "C:\\Users\\lari_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lari_\\Documents\\Larissa\\AprendendoCSharp\\CSharp-Parte4\\ByteBank\\ByteBank\\obj\\",
+      "outputPath": "G:\\GitHub\\Aprendendo-CSharp-Alura\\CSharp-Parte4\\ByteBank\\ByteBank\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "C:\\Users\\lari_\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -62,12 +55,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.10, 3.1.10]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.25, 3.1.25]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

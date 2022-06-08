@@ -1,25 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lari_\\Documents\\Larissa\\AprendendoCSharp\\CSharp-Parte4\\ByteBank\\Parte4-03\\Parte4-03.csproj": {}
+    "G:\\GitHub\\Aprendendo-CSharp-Alura\\CSharp-Parte4\\ByteBank\\Parte4-03\\Parte4-03.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lari_\\Documents\\Larissa\\AprendendoCSharp\\CSharp-Parte4\\ByteBank\\Parte4-03\\Parte4-03.csproj": {
+    "G:\\GitHub\\Aprendendo-CSharp-Alura\\CSharp-Parte4\\ByteBank\\Parte4-03\\Parte4-03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lari_\\Documents\\Larissa\\AprendendoCSharp\\CSharp-Parte4\\ByteBank\\Parte4-03\\Parte4-03.csproj",
+        "projectUniqueName": "G:\\GitHub\\Aprendendo-CSharp-Alura\\CSharp-Parte4\\ByteBank\\Parte4-03\\Parte4-03.csproj",
         "projectName": "Parte4-03",
-        "projectPath": "C:\\Users\\lari_\\Documents\\Larissa\\AprendendoCSharp\\CSharp-Parte4\\ByteBank\\Parte4-03\\Parte4-03.csproj",
+        "projectPath": "G:\\GitHub\\Aprendendo-CSharp-Alura\\CSharp-Parte4\\ByteBank\\Parte4-03\\Parte4-03.csproj",
         "packagesPath": "C:\\Users\\lari_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lari_\\Documents\\Larissa\\AprendendoCSharp\\CSharp-Parte4\\ByteBank\\Parte4-03\\obj\\",
+        "outputPath": "G:\\GitHub\\Aprendendo-CSharp-Alura\\CSharp-Parte4\\ByteBank\\Parte4-03\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\lari_\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
