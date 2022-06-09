@@ -9,11 +9,9 @@ namespace Parte4_03
         public static double TaxaOperacao { get; private set; }
 
         public static int TotalDeContasCriadas { get; private set; }
-<<<<<<< HEAD
-        public static string ClienteTitular
-        {
 
-=======
+        //public static string ClienteTitular(){}
+
 
         public Cliente Titular { get; set; }
 
@@ -102,7 +100,7 @@ namespace Parte4_03
             }
 
             contaDestino.Depositar(valor);
->>>>>>> fa1579a902a005f4fcf523ee492d2d46e717c263
+
         }
     }
 }
