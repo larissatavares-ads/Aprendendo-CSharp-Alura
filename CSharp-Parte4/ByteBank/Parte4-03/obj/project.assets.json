@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\GitHub\\Aprendendo-CSharp-Alura\\CSharp-Parte4\\ByteBank\\Parte4-03\\Parte4-03.csproj",
+      "projectUniqueName": "C:\\GitHub\\Aprendendo-CSharp-Alura\\CSharp-Parte4\\ByteBank\\Parte4-03\\Parte4-03.csproj",
       "projectName": "Parte4-03",
-      "projectPath": "G:\\GitHub\\Aprendendo-CSharp-Alura\\CSharp-Parte4\\ByteBank\\Parte4-03\\Parte4-03.csproj",
+      "projectPath": "C:\\GitHub\\Aprendendo-CSharp-Alura\\CSharp-Parte4\\ByteBank\\Parte4-03\\Parte4-03.csproj",
       "packagesPath": "C:\\Users\\lari_\\.nuget\\packages\\",
-      "outputPath": "G:\\GitHub\\Aprendendo-CSharp-Alura\\CSharp-Parte4\\ByteBank\\Parte4-03\\obj\\",
+      "outputPath": "C:\\GitHub\\Aprendendo-CSharp-Alura\\CSharp-Parte4\\ByteBank\\Parte4-03\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lari_\\AppData\\Roaming\\NuGet\\NuGet.Config",

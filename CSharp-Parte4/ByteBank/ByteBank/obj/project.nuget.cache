@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7CsiIq4TOo0ON9RW/zfQ5+LHBRDoBHg+LSRUY5q7p+kjnVVpiyiIFAbzPHg0p4cs3fO/JlUVZYtE28DedL8Sxg==",
+  "dgSpecHash": "Jd8/F5Kc53JIaUz5ur7UuqLa3Jb2UVJyeJTkSdQKAqTeT+Igil/cRKUKUGadoG0RaGkpZ3ESRcy/0IDThrG3kg==",
   "success": true,
-  "projectFilePath": "G:\\GitHub\\Aprendendo-CSharp-Alura\\CSharp-Parte4\\ByteBank\\ByteBank\\ByteBank.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\lari_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512",
-    "C:\\Users\\lari_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\lari_\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\lari_\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\GitHub\\Aprendendo-CSharp-Alura\\CSharp-Parte4\\ByteBank\\ByteBank\\ByteBank.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
