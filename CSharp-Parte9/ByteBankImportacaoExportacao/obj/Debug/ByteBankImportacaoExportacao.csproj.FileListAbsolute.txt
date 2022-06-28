@@ -1,0 +1,8 @@
+C:\GitHub\Aprendendo-CSharp-Alura\CSharp-Parte9\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.exe.config
+C:\GitHub\Aprendendo-CSharp-Alura\CSharp-Parte9\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.exe
+C:\GitHub\Aprendendo-CSharp-Alura\CSharp-Parte9\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.pdb
+C:\GitHub\Aprendendo-CSharp-Alura\CSharp-Parte9\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.csproj.AssemblyReference.cache
+C:\GitHub\Aprendendo-CSharp-Alura\CSharp-Parte9\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.csproj.SuggestedBindingRedirects.cache
+C:\GitHub\Aprendendo-CSharp-Alura\CSharp-Parte9\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.csproj.CoreCompileInputs.cache
+C:\GitHub\Aprendendo-CSharp-Alura\CSharp-Parte9\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.exe
+C:\GitHub\Aprendendo-CSharp-Alura\CSharp-Parte9\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.pdb
